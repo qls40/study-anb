@@ -1,6 +1,8 @@
 Week 1 (2019/04/22~04/28)
 =====
 
+###### https://www.evernote.com/shard/s229/client/snv?noteGuid=7711f148-fbd8-4143-bd5a-38d7ad2ae98c&noteKey=9fdd6b5b071c8edb309c8833cdf73642&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs229%2Fsh%2F7711f148-fbd8-4143-bd5a-38d7ad2ae98c%2F9fdd6b5b071c8edb309c8833cdf73642&title=1%25EC%25A3%25BC%25EC%25B0%25A8
+
 ## 1. 기호의 발음
 > 개발중 자주 접할 수 있는 특수문자 및 기호에 대한 학습
 > https://ascii.cl/htmlcodes.htm 목록 참조
@@ -83,8 +85,8 @@ Week 1 (2019/04/22~04/28)
     - 빼기 연산자로 사용
 
 - `.` (마침표)
-    - minus sign, hyphen
-    - 빼기 연산자로 사용
+    - period, dot
+    
 
 ## 2. 캐릭터셋
 ## 3. 부동 소수점
