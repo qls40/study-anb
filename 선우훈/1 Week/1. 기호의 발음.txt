@@ -1,0 +1,24 @@
+!  -  exclamation point
+"  -  double quotes
+#  -  number sign
+$  -  dollar sign
+%  -  percent sign
+&  -  ampersand
+'  -  single quote
+(  -  opening parenthesis
+)  -  closing parenthesis
+*  -  asterisk
++  -  plus sigh
+,  -  comma
+-  -  minus sign OR hyphen
+.  -  period
+/  -  slash
+:  -  colon
+;  -  semicolon
+<  -  less than sign
+>  -  greater than sign
+=  -  equal sign
+@  -  at
+`  -  grave accent
+
+
