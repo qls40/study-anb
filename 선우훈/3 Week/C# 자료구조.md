@@ -72,7 +72,9 @@ ArrayList는 크기 지정없이 요소의 추가,삭제에 따라 자동으로
 Ex) Apple -> 사과,    Banana -> 바나나,    Orange -> 오렌지
 
 여기서 'Apple'이 키가 되고 '사과'가 값이 되는 것이다.
-※ 배열은 인덱스로 숫자만을 사용하지만, 해쉬테이블은 키값으로 어떤 타입(int, float, string, class)이든
+
+※   배열은 인덱스로 숫자만을 사용하지만,              해쉬테이블은 키값으로
+    어떤 타입(int, float, string, class)이든
 사용할 수 있기 때문에 상당히 활용도가 높다.
 ```
 ![hash2](https://user-images.githubusercontent.com/49777498/58000479-d6367900-7b13-11e9-86fc-b0b3d393a175.png)
