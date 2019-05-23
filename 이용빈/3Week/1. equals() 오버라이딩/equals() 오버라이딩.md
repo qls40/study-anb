@@ -50,21 +50,29 @@ equals 메소드를 override 통해서 다른 주소값을 같는 객체가 의�
 간단한 예제 코드를 통해 알아보자<br><br>
 
 ### 3. 예제 코드
-<br>
+<br><br>
 
 `Object에 정의된 equals`
+<br>
+
 <img src="../pictures/1/object.png">
 <br>
 
 `eqauls 메서드 Override`
+<br>
+
 <img src="../pictures/1/1-1.PNG">
 <br>
 
 `객체 비교`
+<br>
+
 <img src="../pictures/1/1-2.PNG">
 <br>
 
 `출력 결과`
+<br>
+
 <img src="../pictures/1/1-3.PNG">
 <br>
 

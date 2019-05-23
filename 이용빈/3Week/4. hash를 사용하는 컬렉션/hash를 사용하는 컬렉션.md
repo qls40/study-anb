@@ -31,12 +31,16 @@
 <br><br>
 
 `HashMap 코드`
-<img src="../pictures/4/Map1.PNG">
 <br>
 
+<img src="../pictures/4/Map1.PNG">
+<br><br>
+
 `HashMap 출력`
-<img src="../pictures/4/Map2.PNG">
 <br>
+
+<img src="../pictures/4/Map2.PNG">
+<br><br>
 
 
 
@@ -50,12 +54,16 @@
 <br><br>
 
 `LinkedHashMap 코드`
-<img src="../pictures/4/LinkedHashMap1.PNG">
 <br>
 
+<img src="../pictures/4/LinkedHashMap1.PNG">
+<br><br>
+
 `LinkedHashMap 출력`
-<img src="../pictures/4/LinkedHashMap2.PNG">
 <br>
+
+<img src="../pictures/4/LinkedHashMap2.PNG">
+<br><br>
 
 ### 3. HashTable
 <br>
@@ -67,12 +75,16 @@
 <br>
 
 `HashTable 코드`
-<img src="../pictures/4/HashTable1.PNG">
 <br>
 
+<img src="../pictures/4/HashTable1.PNG">
+<br><br>
+
 `HashTable 출력`
-<img src="../pictures/4/HashTable2.PNG">
 <br>
+
+<img src="../pictures/4/HashTable2.PNG">
+<br><br>
 
 ```
 자주 사용하는 메서드
@@ -90,6 +102,7 @@ isEmpty() : 해당 콜렉션이 비어 있는지 체크한다.
 size() : 해당 콜렉션의 Entry , Segment 사이즈를 반환한다.
 
 ```
+<br><br>
 
 ### 4. HashSet
 <br>
@@ -100,9 +113,13 @@ size() : 해당 콜렉션의 Entry , Segment 사이즈를 반환한다.
 <br>
 
 `HashSet 코드`
-<img src="../pictures/4/HashSet1.PNG">
 <br>
 
+<img src="../pictures/4/HashSet1.PNG">
+<br><br>
+
 `HashSet 출력`
-<img src="../pictures/4/HashSet2.PNG">
 <br>
+
+<img src="../pictures/4/HashSet2.PNG">
+<br><br>

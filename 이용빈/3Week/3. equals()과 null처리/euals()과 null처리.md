@@ -92,10 +92,14 @@ Java8에서 함수형 언어의 접근방식에서 영감을받아 Optional<T> �
 <br><br>
 
 `코드`
+<br>
+
 <img src="../pictures/3/optional1.PNG">
 <br><br>
 
 `출력결과`
+<br>
+
 <img src="../pictures/3/optional2.PNG">
 <br><br>
 

@@ -22,11 +22,15 @@
 
 
 `hash값 비교`
+<br>
+
 <img src="../pictures/2/2-3.PNG">
 <br><br>
 
 
 `hash값 비교결과`
+<br>
+
 <img src="../pictures/2/2-4.PNG">
 <br><br>
 

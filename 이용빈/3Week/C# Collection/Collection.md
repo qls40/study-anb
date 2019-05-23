@@ -23,6 +23,7 @@
 | `List` | LinkedList<br> Stack<br> Vector<br> ArrayList | 순서가 있는 데이터 집합<br> 데이터의중복을 허용 |
 | `Set` | HashSet<br> TreeSet<br> | 순서를 유지하지 않는 데이터 집합<br> 데이터의 중복을 허용 안함  |
 | `Map` | HashMap<br> TreeMap<br> HashTable<br> Properties<br> | 키(key)와 값(value) Pair구조<br> 순서 유지하지 않음<br> 키 중복 허용하지 않음<br> 값 중복을 허용|
+
 <br><br>
 
 ### ArrayList
@@ -63,10 +64,14 @@ public static void printValues(IEnumerable arrayList)
 <br><br>
 
 `TreeMap 코드`
+<br>
+
 <img src="../pictures/4/TreeMap1.PNG">
 <br><br>
 
 `TreeMap 출력`
+<br>
+
 <img src="../pictures/4/TreeMap2.PNG">
 <br><br>
 
