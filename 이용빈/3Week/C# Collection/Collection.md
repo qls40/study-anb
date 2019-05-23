@@ -161,8 +161,7 @@ DB와의 한번의 연결로 Select를 통하여 가져온 데이터를 n개의 
 <br><br>
 
 
-참고자료 : https://cwkcw.tistory.com/122
-          https://jdm.kr/blog/197
+참고자료 : https://jdm.kr/blog/197
           https://docs.microsoft.com/ko-kr/dotnet/framework/data/adonet/dataset-datatable-dataview/
           https://mrw0119.tistory.com/16
           https://cwkcw.tistory.com/122
